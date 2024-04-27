@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Blog preview card solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### The challenge
 
-The challenge is to build out this QR code component and get it looking as close to the design as possible.
+The challenge is to build out this blog preview card and get it looking as close to the design as possible.
 
 Your users should be able to:
 
@@ -40,8 +40,8 @@ Your users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/fmanimashaun/qr-code-component)
-- [Live Site URL](https://fmanimashaun.github.io/qr-code-component/)
+- [Solution URL](https://github.com/fmanimashaun/blog-preview-card)
+- [Live Site URL](https://fmanimashaun.github.io/blog-preview-card/)
 
 ## My process
 
